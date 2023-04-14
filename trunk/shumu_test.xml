@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <node name="史部" type="mulu">
+    <node name="正史" type="mulu">
+      <node name="三家注史记" type="shuji" bi="1"/>
+      <node name="汉书" type="shuji" bi="2"/>
+      <node name="后汉书 李贤注" type="shuji" bi="3"/>
+      <node name="后汉书" type="shuji" bi="4"/>
+      <node name="三国志 裴松之注" type="shuji" bi="5"/>
+      <node name="晋书" type="shuji" bi="6"/>
+      <node name="宋书" type="shuji" bi="7"/>
+      <node name="南齐书" type="shuji" bi="8"/>
+      <node name="梁书" type="shuji" bi="9"/>
+      <node name="陈书" type="shuji" bi="10"/>
+      <node name="魏书" type="shuji" bi="11"/>
+      <node name="北齐书" type="shuji" bi="12"/>
+      <node name="周书" type="shuji" bi="13"/>
+      <node name="北史" type="shuji" bi="14"/>
+      <node name="南史" type="shuji" bi="15"/>
+      <node name="隋书国-旧唐书" type="shuji" bi="16"/>
+      <node name="新唐书" type="shuji" bi="17"/>
+      <node name="旧五代史" type="shuji" bi="18"/>
+      <node name="新五代史" type="shuji" bi="19"/>
+      <node name="宋史" type="shuji" bi="20"/>
+      <node name="辽史" type="shuji" bi="21"/>
+      <node name="金史" type="shuji" bi="22"/>
+      <node name="元史" type="shuji" bi="23"/>
+      <node name="明史" type="shuji" bi="24"/>
+      <node name="清史稿" type="shuji" bi="25"/>
+    </node>
+    <node name="地理" type="mulu">
+      <node name="佛国记" type="shuji" bi="26"/>
+      <node name="水经注" type="shuji" bi="27"/>
+      <node name="蛮书" type="shuji" bi="28"/>
+      <node name="岁华纪丽谱" type="shuji" bi="29"/>
+      <node name="庐山记" type="shuji" bi="30"/>
+      <node name="桂林风土记" type="shuji" bi="31"/>
+      <node name="南岳小录" type="shuji" bi="32"/>
+      <node name="北户录" type="shuji" bi="33"/>
+      <node name="淳熙三山志" type="shuji" bi="34"/>
+      <node name="大唐西域记" type="shuji" bi="35"/>
+      <node name="三辅黄图" type="shuji" bi="36"/>
+      <node name="洛阳伽蓝记" type="shuji" bi="37"/>
+      <node name="读史方奥纪要" type="shuji" bi="38"/>
+      <node name="荆楚岁时记" type="shuji" bi="39"/>
+      <node name="岛夷志略" type="shuji" bi="40"/>
+      <node name="吴地记" type="shuji" bi="41"/>
+      <node name="岭表录异" type="shuji" bi="42"/>
+      <node name="都城纪胜" type="shuji" bi="43"/>
+      <node name="武林旧事" type="shuji" bi="44"/>
+      <node name="梦梁录" type="shuji" bi="45"/>
+      <node name="东京梦华录" type="shuji" bi="46"/>
+      <node name="岭外代答" type="shuji" bi="47"/>
+      <node name="徐霞客游记" type="shuji" bi="48"/>
+      <node name="渤海国记" type="shuji" bi="49"/>
+      <node name="赤雅" type="shuji" bi="50"/>
+      <node name="风土记" type="shuji" bi="51"/>
+      <node name="朝鲜赋" type="shuji" bi="52"/>
+      <node name="北游录" type="shuji" bi="53"/>
+      <node name="游城南记" type="shuji" bi="54"/>
+      <node name="赤松山志" type="shuji" bi="55"/>
+      <node name="平江记事" type="shuji" bi="56"/>
+      <node name="中吴纪闻" type="shuji" bi="57"/>
+      <node name="溪蛮从笑" type="shuji" bi="58"/>
+      <node name="水经注疏" type="shuji" bi="59"/>
+      <node name="钵池山志" type="shuji" bi="60"/>
+      <node name="安溪县志( 嘉靖版 )" type="shuji" bi="61"/>
+      <node name="安溪县志( 康熙丑版 )" type="shuji" bi="62"/>
+      <node name="洛伽蓝记校注" type="shuji" bi="63"/>
+      <node name="真腊飚土记" type="shuji" bi="64"/>
+      <node name="岳阳飚土记" type="shuji" bi="65"/>
+      <node name="吴中水利书" type="shuji" bi="66"/>
+      <node name="洛阳名园记" type="shuji" bi="67"/>
+      <node name="桂海虞衡志" type="shuji" bi="68"/>
+      <node name="南方草木状" type="shuji" bi="69"/>
+      <node name="南宋都城纪胜录" type="shuji" bi="70"/>
+      <node name="益部方物略记" type="shuji" bi="71"/>
+      <node name="遭船志" type="shuji" bi="72"/>
+      <node name="补陀洛迦山传" type="shuji" bi="73"/>
+      <node name="朝鲜纪事" type="shuji" bi="74"/>
+      <node name="丹阳记" type="shuji" bi="75"/>
+      <node name="都城记胜" type="shuji" bi="76"/>
+      <node name="读史方舆纪要" type="shuji" bi="77"/>
+      <node name="广志" type="shuji" bi="78"/>
+      <node name="广州记" type="shuji" bi="79"/>
+      <node name="辽志" type="shuji" bi="80"/>
+      <node name="龙沙纪略" type="shuji" bi="81"/>
+      <node name="洛阳记" type="shuji" bi="82"/>
+      <node name="三辅黄图校证" type="shuji" bi="83"/>
+      <node name="燕魏杂记" type="shuji" bi="84"/>
+      <node name="异城志" type="shuji" bi="85"/>
+      <node name="永嘉郡记" type="shuji" bi="86"/>
+      <node name="三姓山川纪" type="shuji" bi="87"/>
+      <node name="东三省舆地图说" type="shuji" bi="88"/>
+      <node name="东北舆地释略" type="shuji" bi="89"/>
+      <node name="东北边防辑要" type="shuji" bi="90"/>
+      <node name="东城杂记" type="shuji" bi="91"/>
+      <node name="东西洋考" type="shuji" bi="92"/>
+      <node name="临汀志" type="shuji" bi="93"/>
+      <node name="乌石山志" type="shuji" bi="94"/>
+      <node name="干道临安志" type="shuji" bi="95"/>
+      <node name="干道四明图经" type="shuji" bi="96"/>
+      <node name="云南志略" type="shuji" bi="97"/>
+      <node name="云南志蛮书" type="shuji" bi="98"/>
+      <node name="云南风土" type="shuji" bi="99"/>
+    </node>
+  </node>
+</root>
