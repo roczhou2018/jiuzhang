@@ -11,3 +11,5 @@ git clone https://github.com/THUDM/ChatGLM-6B.git chatglm-6b
 pip3 install --no-index --find-links=./chatglm/packages -r requirements.txt
 mv ./chatglm-6b-model chatglm-6b/chatglm_model
 cd chatglm-6b
+pip3 install psutil
+pip3 install gpustat
