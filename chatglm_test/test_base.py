@@ -250,6 +250,6 @@ async def main():
     
     df_temp = pd.merge(df_cpu, df_gpu, on='timestamp')
     df_timeline = pd.merge(df_test_item, df_temp, on='timestamp')
-    df_timeline.to_csv(f"~/chatglm_test_base.monitor.{_QUANTIZE*100}-{_TOP_PERCENT*100}-{_TEMPERATURE*100}.csv")
+    df_timeline.to_csv(f"~/chatglm_test_base.monitor.{_QUANTIZE}-{_TOP_PERCENT*100}-{_TEMPERATURE*100}.csv")
 
 asyncio.run(main())
