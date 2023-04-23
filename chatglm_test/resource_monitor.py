@@ -29,7 +29,8 @@ async def resource_monitor():
         # 获取交换空间使用情况
         swap = psutil.swap_memory()
         # 获取GPU使用情况（所有显卡）
-        gpu_info = os.popen('nvidia-smi --query-gpu=index,utilization.gpu,utilization.memory,memory.used,memory.total,pci --format=csv')
+        # gpu_info = os.popen('nvidia-smi --query-gpu=index,utilization.gpu,utilization.memory,memory.used,memory.total,pci --format=csv')
+        gpu_info = os.popen('nvidia-smi --query-gpu=index,utilization.gpu,utilization.memory,memory.used,memory.total --format=csv')
         gpu_info = list(csv.reader(gpu_info))
         # 获取所有显卡的使用情况
         # gpu_mem = [int(i[1].strip().split()[0]) for i in gpu_info[1:]]
